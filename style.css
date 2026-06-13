@@ -7,11 +7,18 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: rgb(247, 241, 222);
+background-color: rgb(194, 184, 151);
 color: rgb(78, 34, 15);
 width: 100%;
 padding: 20px;
 }
+
+
+
+
+
+
+
 .cabecalho-itens{
 max-width: 1980px;
 margin: 0 auto;
@@ -37,10 +44,21 @@ justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
 }
+
+
+
+
+
+
+
 .banner1{
 display: flex;
 justify-content: center;
 }
+
+
+
+
 .estudante_titulo{
 padding: 50px;
 text-align: center;
