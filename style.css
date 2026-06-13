@@ -5,6 +5,7 @@ box-sizing: border-box;
 }
 body{
 font-family: "Poppins", sans-serif;
+background-color: rgb(239, 255, 200);
 }
 header{
 background-color: rgb(194, 184, 151);
