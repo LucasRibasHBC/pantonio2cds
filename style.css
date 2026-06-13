@@ -112,6 +112,8 @@ padding: 12px 0;
 
 .nanshaodegushi {
     display: flex;
+    display: flex;
+    align-items: center;
     justify-content: center;
 }
 
