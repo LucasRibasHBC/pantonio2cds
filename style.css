@@ -18,16 +18,15 @@ padding: 20px;
 
 
 
-
 .cabecalho-itens{
-max-width: 100x;
+max-width: 1980px;
 margin: 0 auto;
 display: flex;
 align-items: center;
 justify-content: center;
 }
-.cabecalho-imagem{
-width: 1%;
+.cabecalho_imagem{
+width: 10%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
